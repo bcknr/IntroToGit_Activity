@@ -3,7 +3,7 @@ library(datasets)
 library(ggplot2)
 data("iris")
 
-#Partner 1:
+#Partner 1: Mark on Windows
 
 #Partner 2: 
 
