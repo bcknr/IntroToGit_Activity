@@ -3,9 +3,9 @@ library(datasets)
 library(ggplot2)
 data("iris")
 
-#Partner 1: Mark on Windows
+#Partner 1: 
 
-#Partner 2: Mark on Linux
+#Partner 2: 
 
 # Plot
 plot <- ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
@@ -13,7 +13,7 @@ plot <- ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
   geom_smooth() +
   xlab("Sepal Length (mm)") +
   ylab("Sepal Width (mm)") +
-  scale_color_manual(values = c("olivedrab4", "aquamarine4", "burlywood2")) +
+  scale_color_manual(values = c("tan", "wheat", "burlywood2")) +
   theme_bw()
 
   
