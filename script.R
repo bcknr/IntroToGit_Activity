@@ -5,7 +5,7 @@ data("iris")
 
 #Partner 1:
 
-#Partner 2: 
+#Partner 2: Mark on Linux
 
 # Plot
 plot <- ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
