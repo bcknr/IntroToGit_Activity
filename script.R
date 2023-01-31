@@ -9,7 +9,7 @@ plot <- ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
   geom_smooth() +
   xlab("Sepal Length") +
   ylab("Sepal Width") +
-  scale_color_manual(values = c("tan", "wheat", "burlywood2")) +
+  scale_color_manual(values = c("olivedrab4", "aquamarine4", "burlywood2")) +
   theme_bw()
   
 plot
