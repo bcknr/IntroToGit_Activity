@@ -1,2 +1,2 @@
 # Collaboration Activity for Intro to Git Workshop 
-A useful description
+A more useful description
